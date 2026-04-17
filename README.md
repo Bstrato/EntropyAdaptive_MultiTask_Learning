@@ -1,4 +1,5 @@
-Entropy-Adaptive Graph Neural Networks for Joint Node & Edge Classification
+**Entropy-Adaptive Graph Neural Networks for Joint Node & Edge Classification**
+
 This repository implements a unified GNN benchmarking framework that jointly performs node classification and link prediction across both homogeneous and heterogeneous graphs. The core contribution is an entropy-based edge routing mechanism that adaptively decides — per edge — whether to process it through a lightweight MLP or a full line graph encoder.
 
 Key Ideas
